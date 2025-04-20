@@ -1,5 +1,4 @@
 # Heart-Disease-Prediction
-#  Heart Disease Prediction
 
 A simple machine learning project to predict the likelihood of heart disease using patient data.
 
